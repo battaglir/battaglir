@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Roman Battaglia, a reporter at Jefferson Public Radio, a service of [Southern Oregon University](https://sou.edu/)
+
+I focus on local politics, the enviroment, science and energy 🗳️🧪🌲⚡
+
+You can reach me by sending a tip through our [tip line](https://www.ijpr.org/listener-announcements/2022-09-28/help-shape-jprs-coverage-of-southern-oregon-and-northern-california-heres-how)
+
+I'm also working on data journalism.
+- 🌱 I’m currently learning python
+
 <!--
 **battaglir/battaglir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
